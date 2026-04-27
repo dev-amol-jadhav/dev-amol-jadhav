@@ -70,9 +70,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (your email)
-- 📺 YouTube: (your channel)
+- 💼 LinkedIn: https://www.linkedin.com/in/amol-jadhav-014189188/
+- 📧 Email: jadhavamol311@gmail.com
 
 ---
 
